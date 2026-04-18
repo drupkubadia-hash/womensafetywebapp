@@ -11,7 +11,8 @@
   window.__CONVAI_WIDGET_LOADED__ = true;
 
   // Default values (fallbacks)
-  const DEFAULT_AGENT_ID = 'agent_2801k4c88aaffanv3kvjc8sksxrm';
+  const DEFAULT_AGENT_ID = 'agent_9201kpfjz7hvfyastdwv6mx3r4bj';
+  
   const DEFAULT_OPEN_IN_NEW_TAB = true;
   const DEFAULT_WIDGET_POSITION = 'bottom-right';
   const DEFAULT_BASE_URL = '';
